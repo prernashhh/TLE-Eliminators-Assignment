@@ -22,7 +22,7 @@ Built using *React, Vite, Tailwind CSS, Node.js, and MongoDB*.
 ```bash
 cd Server
 npm install
-npm run dev
+nodemon server.js
 ```
 ### 🌐 *Frontend*
 
